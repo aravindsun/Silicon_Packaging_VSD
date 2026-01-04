@@ -41,5 +41,11 @@ Single Chip Module(SCM) is where we put a single die in a package. Inoreder to i
 
 <img width="577" height="560" alt="image" src="https://github.com/user-attachments/assets/5f4b9be5-f448-4720-af17-84103ed8b3c7" />
 
+- 2D → Chips placed side‑by‑side on a substrate with standard interconnects.
+- 2.1D → Enhanced 2D using redistribution layers or advanced substrates for finer routing.
+- 2.3D → Chiplets linked with embedded bridges or fan‑out packaging for higher bandwidth.
+- 2.5D → Multiple dies mounted on a silicon interposer enabling dense, high‑speed interconnects.
+
+
 
 
