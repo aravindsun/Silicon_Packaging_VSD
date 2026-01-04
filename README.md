@@ -34,6 +34,12 @@ Generally there are two interconnections which are important to be considered in
 
 <img width="758" height="277" alt="image" src="https://github.com/user-attachments/assets/298d7bce-1f01-44d1-a2f8-30a9485bf22e" />
 
+There are various material options for the substrate : leadframe(metal), laminate, plastic, ceramic, organic RDL, silicon, glass. The selection of a particaular carrier material depends on the application. For example if the chip is exposed to very high temperature, then materials like ceramic, plastic are out of choice. 
+
+# Advanced Package Structures
+Single Chip Module(SCM) is where we put a single die in a package. Inoreder to increase the packaging density, multiple dies can be packaged into a single package and it is called Multi Chip Module(MCM).  The below picture illustrates various kinds of evolving package styles of MCM.
+
+<img width="577" height="560" alt="image" src="https://github.com/user-attachments/assets/5f4b9be5-f448-4720-af17-84103ed8b3c7" />
 
 
 
